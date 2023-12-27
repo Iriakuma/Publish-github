@@ -104,7 +104,7 @@ select
 	order_amount,
     ex_rate,
     currency,
-    round((order_amount * ex_rate),1)  as 'lifetime_purchase'  
+    round((order_amount * ex_rate),1) as lifetime_purchase
     from business.intermediate_orders as ir
     join business.exchange_rates as ec
     on ir.currency = ec.source_currency and ec.target_currency="USD"
@@ -112,7 +112,7 @@ select
 select 
 	c.first_name as 'name', 
     c.last_name as 'surname',
-    concat('$', er.lifetime_purchase) as 'total_amount'
+    concat('$', er.lifetime_purchase) as total_amount
 from business.intermediate_customers as c
 join business.intermediate_orders as o
 on c.id = o.customer_id
