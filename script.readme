@@ -1,0 +1,2 @@
+The script starts with running codes for cleaning a raw(bronze) customer and order data sets into an intermediate table(silver data) for further business analysis.
+Afterwhich, the silver table is then used to carry out customer analysis to identify the anual top spenders accross countries, International customer spending to understand the company's client base in international market and lastly to get insights on customers lifetime purchase to get overall spending behaviour.
