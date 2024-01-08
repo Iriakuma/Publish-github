@@ -8,10 +8,11 @@ efficient resource allocation and enhanced profitability.
 
 <ins>**Data Structure**</>
 The data follows Medallion architecture and is separated in the following schemas:
-Bronze:The raw data from the source
-Silver: The cleaned data ready for analysis
-Gold: Anaylzed data showing findings
-The data consists of two tables(cvs file):customers and orders table
++Bronze:The raw data from the source
++Silver: The cleaned data ready for analysis
++Gold: Anaylzed data showing findings
+
+The bronze data consists of two tables(cvs file):customers and orders table
 
 **Table 1: Customers Information**
 id(int):is a unique identifier for each customer, 
