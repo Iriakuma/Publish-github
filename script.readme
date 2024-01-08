@@ -7,6 +7,10 @@ market trends, ultimately leading to more targeted marketing strategies,
 efficient resource allocation and enhanced profitability.
 
 <ins>**Data Structure**</>
+The data follows Medallion architecture and is separated in the following schemas:
+Bronze:The raw data from the source
+Silver: The cleaned data ready for analysis
+Gold: Anaylzed data showing findings
 The data consists of two tables(cvs file):customers and orders table
 
 **Table 1: Customers Information**
