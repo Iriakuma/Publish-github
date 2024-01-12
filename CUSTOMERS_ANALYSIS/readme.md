@@ -51,10 +51,12 @@ Lastly, collaborations with other businesses can also be formed to offer exclusi
 
 2. **The internaltional market**
 
+The internaltional market showed the highest purchase from Asia
 Insishts on this analysis can help in promoting marketing campaigns for the local audience of each top market region. customization of products with variations in product design, features, or even packaging can be proposed. Identification of areas of improvement and new emerging opportunities in such regions can also be identified.
 
 3. **The customer's lifetime analysis:**
 
+The lifetime analysis gave a value of $19,000 for the highest spender
 Insights on lifetime analysis help understand the history and level of a customer's engagement. The baheviour of customers can be understood and services can be tailored to various customers as needed to increase engagement and returns.
 Also, understanding customer's engagement can reveal how they can be receptive to additional products or upgraded services, hence cross-selling can be considered. These cudtomers can be encouraged to refer new customers. Such referrals can be leveraged to acquire new similar customers.
 Most reward recommendations for the proposed Elite members are also applicable to highest spenders for customer retion and maximizing value.
