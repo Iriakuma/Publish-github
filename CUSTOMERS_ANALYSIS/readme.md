@@ -34,18 +34,29 @@ The bronze(raw) table consists of two tables(cvs file):customers and orders tabl
 
 <ins>**Code Desription**</ins>
 
-The script starts with running codes for cleaning the bronze customer table and orders table into an silver table for the following analysis following analysis:
+The script starts with running code for cleaning the bronze customer table and orders table into an silver table for the following analysis following analysis:
 
 1. Identification of the anual top spenders accross countries.This analysis helps in understanding which geographical regions are the most lucrative and identifying key market segments.
 2. International top spenders to understand the company's client base in the international market.This is essential for strategizing international market expansion.
-3. Lastly to get insights on customers lifetime purchase to get overall spending behaviour.This can be used for assessing long-term customer value, understanding customer loyalty trends, and developing strategies for customer retention and value maximization.
+3. Lastly, insights on customer's lifetime purchase to get overall spending behaviour.This can be used for accessing long-term customer value, understanding customer loyalty trends, and developing strategies for customer retention and value maximization.
 
-<ins>**Findingds**</ins>
+<ins>**Conclusion/Recommendations**</ins>
 
-1. The top 10 spenders generated about 3% profits of the entire client base
-2. The internaltional market showed the highest purchase from Asia
-3. The lifetime analysis gave a value of 19,000 for the highest purchser
+1. **The Top Spenders:**
 
-<ins>**Conclusion**</ins>
+The top 10 spenders generated about 3% profits of the entire client base
+An Elite member group curating perosnal services can be created for these high value customers. They can be offered special discounts and offers, early access to new products and feedbackks making them feel like a part of the company.
+Personal services can include offering them customized products, dedicated account manager and personal shopping assistant.
+Lastly, collaborations with other businesses can also be formed to offer exclusive deals, such as hotel upgrades, airline lounge access, premium car rental services and invitation to exclusive events.
 
-Companies can use such insights to make data driven decisons.
+2. **The internaltional market**
+
+Insishts on this analysis can help in promoting marketing campaigns for the local audience of each top market region. customization of products with variations in product design, features, or even packaging can be proposed. Identification of areas of improvement and new emerging opportunities in such regions can also be identified.
+
+3. **The customer's lifetime analysis:**
+
+Insights on lifetime analysis help understand the history and level of a customer's engagement. The baheviour of customers can be understood and services can be tailored to various customers as needed to increase engagement and returns.
+Also, understanding customer's engagement can reveal how they can be receptive to additional products or upgraded services, hence cross-selling can be considered. These cudtomers can be encouraged to refer new customers. Such referrals can be leveraged to acquire new similar customers.
+Most reward recommendations for the proposed Elite members are also applicable to highest spenders for customer retion and maximizing value.
+
+Generally, companies can use such insights to make data driven decisons.
